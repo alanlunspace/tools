@@ -18,21 +18,21 @@ zshrc
 # Recommendations
 ## Operating system
 - MacOS
-- Linux
 - Ubuntu
 - Linux Mint
 
 ## Networking
 - nmap
-- wireshark
+- Wireshark
 
 ## Text editor
-- vim
+- Vim
+- Visual Studio code
 - Atom
 
 ## Diagramming
 - KaTeX
-- mermaid
+- Markdown -> mermaid
 
 ## Automation
 - Selenium

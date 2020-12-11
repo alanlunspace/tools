@@ -1,0 +1,4 @@
+668208984 GIPHY CAPTURE (4.1)
+1295203466 Microsoft Remote Desktop (10.5.0)
+497799835 Xcode (12.0.1)
+585829637 Todoist (7.5)
